@@ -19,3 +19,15 @@ Bugün VS Code ve Markdown öğreniyorum.
 - Markdown
 - Git Status
 - Working Directory
+## Day 2 Tamamlandı
+
+Bugün:
+- pwd
+- ls
+- cd
+- git status
+- git add
+- git commit
+- git log
+
+öğrendim.
